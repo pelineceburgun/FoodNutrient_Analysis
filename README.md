@@ -14,5 +14,5 @@ Matplotlib/Seaborn: For data visualization and plotting.
 NumPy: For numerical calculations and operations.
 Jupyter Notebook: For an interactive development environment.
 ## Data Resource
-The dataset used for this project is sourced from Kaggle's [FoodCentral dataset](https://www.kaggle.com/datasets/foodcentral).
+The dataset used for this project is sourced from Kaggle's [FoodDataCentral dataset]([https://www.kaggle.com/datasets/stoicstatic/fooddata-central-nutrition-and-component-data]).
 Idea: datawits account on ınstagram
